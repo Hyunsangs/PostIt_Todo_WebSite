@@ -22,9 +22,15 @@
 # 페이지
 
 ### 메인
+<img width="916" alt="메인페이지1" src="https://github.com/Hyunsangs/PostIt_Todo_WebSite/assets/122857450/1304ce37-5ece-483f-8f34-8f6a8eea92f3">
+<img width="916" alt="메인페이지2" src="https://github.com/Hyunsangs/PostIt_Todo_WebSite/assets/122857450/ed17e371-905e-4a57-933d-65ceed51698b">
+
 
 ### 로그인
+<img width="915" alt="로그인" src="https://github.com/Hyunsangs/PostIt_Todo_WebSite/assets/122857450/b6a54e93-f977-4c0c-bbff-a4dfe23602bb">
 
-### 로그아웃
+### 회원가입
+<img width="915" alt="회원가입" src="https://github.com/Hyunsangs/PostIt_Todo_WebSite/assets/122857450/72d8f0b4-5a13-46fe-ae70-9685e1ba01bf">
 
 ### 로그인 후
+<img width="909" alt="로그인성공후" src="https://github.com/Hyunsangs/PostIt_Todo_WebSite/assets/122857450/d1d9cc95-e0bd-4f30-9690-1c11695978c6">
