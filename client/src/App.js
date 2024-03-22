@@ -7,7 +7,7 @@ import Login from './Pages/LoginPage/Login';
 import Register from './Pages/RegisterPage/Register';
 import './App.css';
 import Mypage from './Pages/Mypage/MyPage';
-import { AuthProvider } from './Pages/Context/AuthContext';
+import { AuthProvider } from './Context/AuthContext';
 const App = () => {
  
   return (

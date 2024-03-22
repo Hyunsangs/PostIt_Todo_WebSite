@@ -5,7 +5,7 @@ import PostModal from '../../Components/PostModal';
 import Button from '../../Styles/Button';
 import axios from 'axios';
 import UpdateModal from '../../Components/UpdateModal';
-import { useAuth } from '../Context/AuthContext';
+import { useAuth } from '../../Context/AuthContext';
 
 
 const Home = () => {

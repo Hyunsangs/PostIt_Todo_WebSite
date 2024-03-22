@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import styled from "styled-components";
-import { useAuth } from '../../src/Pages/Context/AuthContext'; // 경로 확인 필요
+import { useAuth } from '../Context/AuthContext'; // 경로 확인 필요
 import Button from './Button';
 
 const NavContainer = styled.div`
