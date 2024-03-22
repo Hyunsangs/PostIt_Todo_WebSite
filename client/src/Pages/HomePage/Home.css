@@ -1,0 +1,107 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+
+
+/* section1 CSS*/
+
+.section1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: beige;
+    width: 100%;
+    height: 100vh;
+    justify-content: space-around;
+
+}
+
+.main__img {
+    
+    height: 400px;
+    width: 550px;
+    background-repeat: no-repeat;
+    object-fit: fill;
+    background-image: url('../../../public/img/postitMain.png');
+}
+
+
+.section1__1 {
+    margin-top: 150px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.section1__1 > 
+
+.section1__1__title {
+    font-size: 28px;
+    color: rgb(106, 136, 245);
+    margin-bottom: 30px;
+}
+
+.section1__1__content {
+    color: rgb(44, 77, 86);
+    margin-bottom: 150px;
+}
+
+.section1__1__lookbutton {
+    
+    font-size: 25px;
+    text-align: center;
+    width: 200px;
+    font-weight: 600;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.section1__1__lookbutton:hover {
+    background-color: coral;
+}
+
+/* section2 CSS*/
+.section2 {
+    
+    background-color: rgb(220, 248, 248);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    
+}
+
+.main__container__board {
+    position : relative;
+    border-radius: 10px;
+    border: 2px solid black;
+    background-color: rgb(133, 198, 133);
+    width: 80%;
+    
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* 각 포스트의 너비를 200px로 정의 */
+    grid-gap: 5px; /* 포스트 간의 간격을 설정 */
+}
+
+/* section3 CSS*/
+
+.section3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.blur {
+    filter: blur(5px); /* 블러 처리 정도를 조절하려면 숫자 변경 */
+  }

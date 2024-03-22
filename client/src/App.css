@@ -1,0 +1,11 @@
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+  
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
